@@ -46,8 +46,8 @@
 
 **University of Delaware: College of Earth, Ocean and Environment**--Lewes, DE (June--August 2012) <br  />
 *National Science Foundation Sponsored REU Summer Intern*</li><br  />
--Performed independent research on horseshoe crabs and worked collaboratively in lab group on other projects </li>
--Collected scientific data that can inform and direct future horseshoe crab population and habitat studies </li>
+<li>Performed independent research on horseshoe crabs and worked collaboratively in lab group on other projects </li>
+<li>Collected scientific data that can inform and direct future horseshoe crab population and habitat studies </li>
 
 **Track of the Tiger**--Chiang Mai, Thailand (June--August 2011) <br  />
 *McKenna International Internship Fellow*</li>
