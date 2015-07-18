@@ -51,7 +51,7 @@
 
 **Track of the Tiger**--Chiang Mai, Thailand (June--August 2011) <br  />
 *McKenna International Internship Fellow*</li>
-<li> Raised awareness about the condition of Asian elephants and their caretakers <em>(mahouts)</em> at the Mae Ping Elephant Village  </li>
+<li> Raised awareness about the condition of Asian elephants and their caretakers <em>(mahouts)</em> at the Mae Ping      Elephant Village  </li>
 <li> Created informational booklets and signs about elephants and mahouts in Thai culture for Village guests </li>
 
 <h2 style="font-size:125%"><strong>Leadership Activities </strong></h2>
