@@ -6,7 +6,7 @@
 
 <hr />
 
-<p style="font-size:125%"><strong>Education</strong> </p>
+<h2 style="font-size:125%"><strong>Education</strong> </h2>
 **University of Washington**--Friday Harbor, WA (Summer 2015 and Fall 2014)<br  />
 *Ecology Below and Between Pacific Tides with Scientific Diving*<br  />
 *Pelagic Ecosystem Functions (PEF) Research Apprenticeship*<br  />
